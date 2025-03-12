@@ -6,7 +6,7 @@ Welcome to the 5s vs. Not-5s Classification Project! This repository contains a 
 
 ## Project Overview
 
-The goal of this project is to build and evaluate a binary classifier that accurately predicts whether an instance belongs to the "5s" class (positive class) or the "not-5s" class (negative class). This is a classic supervised learning problem, and the repository includes data preprocessing, model training, and performance evaluation using standard classification metrics.
+The goal of this project is to build and evaluate a binary classifier that accurately predicts whether an instance belongs to the "5s" class (positive class) or the "not-5s" class (negative class). This is a classic supervised learning problem, and the repository includes data preprocessing, model training, and performance evaluation using standard classification metrics.Also I have covered Precision, Recall & F1 sore  and there tradeoff. Multiclass Classification has also been covered and error analysis. 
 
 ### Problem Definition
 
